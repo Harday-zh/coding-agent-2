@@ -54,45 +54,6 @@ export default {
     }
   }
 }
-</script>'
-
-<style scoped>
-.self-modifying-counter {
-  text-align: center;
-  padding: 20px;
-}
-
-.counter-display {
-  font-size: 48px;
-  margin: 20px 0;
-  font-weight: bold;
-}
-
-.button-group {
-  margin: 20px 0;
-}
-
-button {
-  padding: 10px 20px;
-  font-size: 16px;
-  margin: 0 5px;
-  cursor: pointer;
-}
-
-.code-display {
-  margin-top: 30px;
-  text-align: left;
-  background-color: #f5f5f5;
-  padding: 15px;
-  border-radius: 5px;
-  max-height: 300px;
-  overflow-y: auto;
-}
-</style>
-      `).trim()
-    }
-  }
-}
 </script>
 
 <style scoped>
