@@ -6,6 +6,7 @@
         <div class="nav-links">
           <router-link to="/student" class="nav-link" :class="{ active: $route.path === '/student' }">学生管理</router-link>
           <router-link to="/visualization" class="nav-link" :class="{ active: $route.path === '/visualization' }">数据可视化</router-link>
+          <router-link to="/counter" class="nav-link" :class="{ active: $route.path === '/counter' }">自我修改计数器</router-link>
         </div>
       </div>
     </nav>

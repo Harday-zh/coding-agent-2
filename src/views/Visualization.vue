@@ -26,6 +26,7 @@
 
 <script>
 import * as echarts from 'echarts'
+import { mapGetters } from 'vuex'
 
 export default {
   data() {
